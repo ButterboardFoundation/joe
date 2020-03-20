@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+.audio {
+    margin-top: 0.5em;    
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: center !important;
+    margin: auto !important;
+    color: lightgray
+}
+
+a {
+    color: lightgray;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-color: #303030;
+}
+
+div {
+    margin: 0 auto;
+}
